@@ -1,0 +1,143 @@
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Xinxi.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Index.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Zhigong.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Chajin.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Jinhuo.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Chaku.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Maihuo.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Denglu.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\CHEXC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\CHEXC.exe
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\CHEXC.pdb
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Gongyingshang.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\obj\Debug\DZY.Gongying.resources
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\bin\Debug\CHEXC.exe
+C:\Users\Administrator\Desktop\CHEXC\CHEXC\bin\Debug\CHEXC.pdb
+E:\PSS-master\DZY\CHEXC\bin\Debug\CHEXC.exe
+E:\PSS-master\DZY\CHEXC\bin\Debug\CHEXC.pdb
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.csprojResolveAssemblyReference.cache
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Gongyingshang.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Xinxi.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Index.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Gongying.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Zhigong.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Chajin.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Jinhuo.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Chaku.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Maihuo.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.Denglu.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\CHEXC.Properties.Resources.resources
+E:\PSS-master\DZY\CHEXC\obj\Debug\DZY.csproj.GenerateResource.Cache
+E:\PSS-master\DZY\CHEXC\obj\Debug\CHEXC.exe
+E:\PSS-master\DZY\CHEXC\obj\Debug\CHEXC.pdb
+E:\PSS-master\DZY\DZY\bin\Debug\CHEXC.exe
+E:\PSS-master\DZY\DZY\bin\Debug\CHEXC.pdb
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.csprojResolveAssemblyReference.cache
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Gongyingshang.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Xinxi.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Index.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Gongying.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Zhigong.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Chajin.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Jinhuo.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Chaku.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Maihuo.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Denglu.resources
+E:\PSS-master\DZY\DZY\obj\Debug\CHEXC.Properties.Resources.resources
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.csproj.GenerateResource.Cache
+E:\PSS-master\DZY\DZY\obj\Debug\CHEXC.exe
+E:\PSS-master\DZY\DZY\obj\Debug\CHEXC.pdb
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Maicha.resources
+E:\PSS-master\DZY\DZY\bin\Debug\CHEXC.exe.config
+E:\PSS-master\DZY\DZY\obj\Debug\DZY.Kucun.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.csprojResolveAssemblyReference.cache
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.csproj.GenerateResource.Cache
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.Properties.Resources.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\bin\Debug\DZY.exe.config
+E:\c语言编程包\data\dazuoye\DZY\DZY\bin\Debug\DZY.exe
+E:\c语言编程包\data\dazuoye\DZY\DZY\bin\Debug\DZY.pdb
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.exe
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.pdb
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cChajin.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cIndex.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cMaicha.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cKucun.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cGongying.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cZhigong.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cJinhuo.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cChaku.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cMaihuo.resources
+E:\c语言编程包\data\dazuoye\DZY\DZY\obj\Debug\DZY.cDenglu.resources
+E:\DZY\DZY\bin\Debug\DZY.exe.config
+E:\DZY\DZY\bin\Debug\DZY.exe
+E:\DZY\DZY\bin\Debug\DZY.pdb
+E:\DZY\DZY\obj\Debug\DZY.csprojResolveAssemblyReference.cache
+E:\DZY\DZY\obj\Debug\DZY.cChajin.resources
+E:\DZY\DZY\obj\Debug\DZY.cIndex.resources
+E:\DZY\DZY\obj\Debug\DZY.cMaicha.resources
+E:\DZY\DZY\obj\Debug\DZY.cKucun.resources
+E:\DZY\DZY\obj\Debug\DZY.cGongying.resources
+E:\DZY\DZY\obj\Debug\DZY.cZhigong.resources
+E:\DZY\DZY\obj\Debug\DZY.cJinhuo.resources
+E:\DZY\DZY\obj\Debug\DZY.cChaku.resources
+E:\DZY\DZY\obj\Debug\DZY.cMaihuo.resources
+E:\DZY\DZY\obj\Debug\DZY.cDenglu.resources
+E:\DZY\DZY\obj\Debug\DZY.Properties.Resources.resources
+E:\DZY\DZY\obj\Debug\DZY.csproj.GenerateResource.Cache
+E:\DZY\DZY\obj\Debug\DZY.exe
+E:\DZY\DZY\obj\Debug\DZY.pdb
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\bin\Debug\DZY.exe.config
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\bin\Debug\DZY.exe
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\bin\Debug\DZY.pdb
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cChajin.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cIndex.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cMaicha.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cKucun.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cGongying.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cZhigong.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cJinhuo.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cChaku.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cMaihuo.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.cDenglu.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.Properties.Resources.resources
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.csproj.GenerateResource.cache
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.csproj.CoreCompileInputs.cache
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.exe
+F:\BaiduNetdiskDownload\2021\python\-.net--master\DZY\obj\Debug\DZY.pdb
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\bin\Debug\DZY.exe.config
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\bin\Debug\DZY.exe
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\bin\Debug\DZY.pdb
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.csprojResolveAssemblyReference.cache
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cChajin.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cIndex.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cMaicha.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cKucun.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cGongying.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cZhigong.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cJinhuo.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cChaku.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cMaihuo.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.cDenglu.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.Properties.Resources.resources
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.csproj.GenerateResource.Cache
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.exe
+C:\Users\haojiafeng\Desktop\超市进销存系统 2\DZY\obj\Debug\DZY.pdb
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\bin\Debug\DZY.exe.config
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\bin\Debug\DZY.exe
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\bin\Debug\DZY.pdb
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.csprojResolveAssemblyReference.cache
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cChajin.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cIndex.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cMaicha.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cKucun.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cGongying.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cZhigong.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cJinhuo.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cChaku.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cMaihuo.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.cDenglu.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.Properties.Resources.resources
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.csproj.GenerateResource.Cache
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.exe
+C:\Users\haojiafeng\Desktop\作业\超市进销存系统 2\DZY\obj\Debug\DZY.pdb
